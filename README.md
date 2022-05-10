@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I'm Manish Singh Chouhan 👋
 
 <!--
 **manishchouhan2396/manishchouhan2396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
