@@ -35,7 +35,6 @@
 
   <br/>
     <a href="manishchouhan.vercel.app"><img alt="Manish Github Status" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=manishchouhan2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
   <a href="https://github.com/manishchouhan2396/github-readme-stats"><img alt="Manish's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishchouhan2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 
 
