@@ -32,7 +32,7 @@
 
 
 
-## 📊 My Github Stats
+## 📊 My Github Stars
 
   <br/>
     <a href="manishchouhan.vercel.app"><img alt="Manish Github Status" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=manishchouhan2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
