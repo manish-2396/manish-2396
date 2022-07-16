@@ -77,3 +77,11 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishchouhan2396&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+
+## ❤ Views and Followers
+
+<a href="https://github.com/manishchouhan2396">
+    <img src="https://komarev.com/ghpvc/?username=manishchouhan2396">
+</a>
+<a href="https://github.com/manishchouhan2396"><img src="https://img.shields.io/github/followers/manishchouhan2396?label=Followers&style=social" alt="GitHub Badge"></a>
