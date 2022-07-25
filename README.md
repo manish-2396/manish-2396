@@ -8,10 +8,6 @@
 
 <h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
-
-
-<!-- <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="50%" /> -->
-
 <img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
@@ -20,6 +16,8 @@
 
 </br>
 
+ <img  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="50%" /> 
+<br/>
 - 🔭 I’m currently Study in Masai School 
 
 - 🌱 I’m currently learning **MERN Stack And DSA**
@@ -30,7 +28,8 @@
 
 - 📫 How to reach me **manishchouhan2396@gmail.com**
 
-
+<br/>
+<br/>
 
 ## 📊 My Github Stars
 
