@@ -6,9 +6,9 @@
 
 
 
-<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
+<!--<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
-<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />-->
 
 
  ## 🙋‍♂️ About Me
