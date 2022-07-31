@@ -5,13 +5,13 @@
 
 
 
+<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
-<!--<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
-
-<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />-->
+<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
- ## 🙋‍♂️ About Me
+
+ <h1 align="center" > 🙋‍♂️ About Me </h1>
 
 
 </br>
@@ -33,7 +33,9 @@
 <br/>
 <br/>
 
-## 📊 My Github Stars
+<h1 >📊 My Github Stars </h1>
+
+<div>
 
   <br/>
     <a href="manishchouhan.vercel.app"><img alt="Manish Github Status" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=manishchouhan2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -50,6 +52,8 @@
 
 
 </br>
+
+</div>
 <hr> 
 
 ## 🚀 Languages and Tools:
