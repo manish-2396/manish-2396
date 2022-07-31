@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-<h1 >📊 My Github Stars </h1>
+<h1 align="center" >📊 My Github Stars </h1>
 
 <div>
 
