@@ -1,4 +1,4 @@
-### Hi Folks <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+## Hi Folks <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=I+am+Manish+Singh+Chouhan;Asprirant+of+Full+stack+web+developer...)](https://git.io/typing-svg)
@@ -35,10 +35,12 @@
 
 <h1 align="center" >📊 My Github Stars </h1>
 
+
 <div>
 
   <br/>
     <a href="manishchouhan.vercel.app"><img alt="Manish Github Status" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=manishchouhan2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
   <a href="https://github.com/manishchouhan2396/github-readme-stats"><img alt="Manish's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishchouhan2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 
 
@@ -54,9 +56,10 @@
 </br>
 
 </div>
-<hr> 
 
-## 🚀 Languages and Tools:
+
+<h1> 🚀 Languages and Tools:</h1>
+
 
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
