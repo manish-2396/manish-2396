@@ -5,9 +5,6 @@
 
 
 
-<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
-
-<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
 
@@ -35,32 +32,37 @@
 
 <h1 align="center" >📊 My Github Stars </h1>
 
-
-
-
-  <br/>
-  <div display="flex" >
-    <a href="manishchouhan.vercel.app"><img alt="Manish Github Status" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=manishchouhan2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
-    
-  <a href="https://github.com/manishchouhan2396/github-readme-stats"><img alt="Manish's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishchouhan2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<br/>
   
-  </div>
-<br/> 
+  
+
+    
+
+    
+
+<a href="https://github.com/manishchouhan2396/github-readme-stats" >
+  <img   alt="Manish's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=manishchouhan2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+  <a href="https://github.com/manishchouhan2396/github-readme-stats">
+  <img   alt="Manish's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishchouhan2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+  
+  
+  
+  #
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manishchouhan2396)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-</br>
-
-</div>
-
-
+#
 <h1> 🚀 Languages and Tools:</h1>
 
 
-<p align="center"> 
+<div align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -76,7 +78,8 @@
     <a href="https://icons8.com/icon/111953/json"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
     <a href="https://icons8.com/icon/24895/npm"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     <a href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
-</p>
+</div>
+
 
 
 <p align="center">
@@ -84,6 +87,11 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishchouhan2396&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+
+<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
+
+<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
 ## ❤ Views and Followers
