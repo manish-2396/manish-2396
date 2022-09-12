@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **MERN Stack And DSA**
 
 - 💞️  I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://manishchouhan95.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://manishchouhan.vercel.app/)**
 
 
 - 📫 How to reach me **manishchouhan2396@gmail.com**
@@ -41,11 +41,11 @@
     
 
 <a href="https://github.com/manishchouhan2396/github-readme-stats" >
-  <img   alt="Manish's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=manishchouhan2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img   alt="Manish's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=manish-2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
   <a href="https://github.com/manishchouhan2396/github-readme-stats">
-  <img   alt="Manish's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishchouhan2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img   alt="Manish's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
   
@@ -54,7 +54,7 @@
   #
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manishchouhan2396)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manish-2396)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -83,7 +83,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/manishchouhan2396/github-readme-streak-stats">
+    <a href="https://github.com/manish-2396/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishchouhan2396&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -91,12 +91,12 @@
 
 <h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
-<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manish-2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
 ## ❤ Views and Followers
 
 <a href="https://github.com/manishchouhan2396">
-    <img src="https://komarev.com/ghpvc/?username=manishchouhan2396">
+    <img src="https://komarev.com/ghpvc/?username=manish-2396">
 </a>
-<a href="https://github.com/manishchouhan2396"><img src="https://img.shields.io/github/followers/manishchouhan2396?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/manishchouhan2396"><img src="https://img.shields.io/github/followers/manish-2396?label=Followers&style=social" alt="GitHub Badge"></a>
