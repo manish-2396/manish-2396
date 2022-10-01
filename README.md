@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **MERN Stack And DSA**
 
 - 💞️  I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://manish-2396.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://manishchouhan.vercel.app/)**
 
 
 - 📫 How to reach me **manishchouhan2396@gmail.com**
