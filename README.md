@@ -40,11 +40,11 @@
 
     
 
-<a href="https://github.com/manishchouhan2396/github-readme-stats" >
+<a href="https://github.com/manish-2396/github-readme-stats" >
   <img   alt="Manish's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=manish-2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
-  <a href="https://github.com/manishchouhan2396/github-readme-stats">
+  <a href="https://github.com/manish-2396/github-readme-stats">
   <img   alt="Manish's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
