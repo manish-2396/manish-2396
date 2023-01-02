@@ -75,9 +75,10 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png"/> </a>
-    <a href="https://icons8.com/icon/111953/json"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
-    <a href="https://icons8.com/icon/24895/npm"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-    <a href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+    <a href="https://www.w3schools.com/js/js_json_intro.asp"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
+    <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+    <a href="https://mui.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+    <a href="https://angular.io/"><img src="https://img.icons8.com/color/48/angularjs.png"/></a>
 </div>
 
 
