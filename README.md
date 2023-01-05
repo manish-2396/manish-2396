@@ -81,7 +81,7 @@
     <a href="https://angular.io/"><img src="https://img.icons8.com/color/48/angularjs.png"/></a>
 </div>
 
-
+<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
 <p align="center">
     <a href="https://github.com/manish-2396/github-readme-streak-stats">
@@ -90,9 +90,9 @@
 </p>
 
 
-<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
-<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manish-2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<!-- <img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manish-2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 
 
 ## ❤ Views and Followers
