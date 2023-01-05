@@ -28,66 +28,76 @@
 - 📫 How to reach me **manishchouhan2396@gmail.com**
 
 <br/>
+
+
 <br/>
 
+<!-- <h1 align="center" >📊 My Github Stars </h1> -->
+
+<br/>
+  
+  
+
+    
+
+    
+
+  
+  <h1 align="center"> 🚀 Languages and Tools:</h1>
+
+
+<div align="center" > 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/> </a>  
+    <a href="https://chakra-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/chakra-ui.png"/> </a>  
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/express.png"/> </a>
+    <a href="https://www.w3schools.com/js/js_json_intro.asp"><img src="https://img.icons8.com/material-outlined/50/000000/json.png"/></a>
+    <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/50/000000/npm.png"/></a>
+    <a href="https://mui.com/"><img src="https://img.icons8.com/color/50/000000/material-ui.png"/></a>
+    <a href="https://angular.io/"><img src="https://img.icons8.com/color/50/angularjs.png"/></a>
+</div>
+
+<br/>
+<br/>
 <h1 align="center" >📊 My Github Stars </h1>
-
-<br/>
-  
-  
-
-    
-
-    
-
-<a href="https://github.com/manish-2396/github-readme-stats" >
-  <img   alt="Manish's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=manish-2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
   
   <a href="https://github.com/manish-2396/github-readme-stats">
   <img   alt="Manish's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
   
+<a href="https://github.com/manish-2396/github-readme-stats" >
+  <img   alt="Manish's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=manish-2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
   
   
-  #
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=manish-2396)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-#
-<h1> 🚀 Languages and Tools:</h1>
-
-
-<div align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
-    <a href="https://chakra-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> </a>  
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png"/> </a>
-    <a href="https://www.w3schools.com/js/js_json_intro.asp"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
-    <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-    <a href="https://mui.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
-    <a href="https://angular.io/"><img src="https://img.icons8.com/color/48/angularjs.png"/></a>
-</div>
-
-<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
+  
+  <h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
 <p align="center">
     <a href="https://github.com/manish-2396/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-2396&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+  
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manish-2396)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+
+
 
 
 
